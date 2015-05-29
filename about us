@@ -380,7 +380,7 @@
                 <ul id="navigation-primary" class="navigation-primary"><li id="menu-item-807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-807"><a href="./index.html">Home</a></li>
                     <li id="menu-item-808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-808"><a href="./who we are.html">Who We Are</a>
                     <ul class="sub-menu">
-                        <li id="menu-item-811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-811"><a href="./about us">About Us</a></li>
+                        <li id="menu-item-811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-811"><a href="#">About Us</a></li>
                         <li id="menu-item-809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-809"><a href="#">Partners</a></li>
                         <li id="menu-item-810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-810"><a href="#">Technology Overview</a></li>
                     </ul>
